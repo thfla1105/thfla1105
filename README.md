@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hello%20World!%20It's%20SoRim!&fontAlign=50&fontAlignY=70&fontSize=50&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hello%20World!%20It's%20SoRim!&fontAlign=50&fontAlignY=70&fontSize=50&fontColor=000000)(https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align=center><h1>📚 STACKS</h1></div>
 
