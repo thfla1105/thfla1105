@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hello%20World!%20It's%20SoRim!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
