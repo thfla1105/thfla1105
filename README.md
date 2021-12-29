@@ -1,4 +1,4 @@
-### Hello World!😄🌱
+### Hello World! 😄🌱
 
 <!--
 **thfla1105/thfla1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
