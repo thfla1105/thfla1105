@@ -57,8 +57,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
-
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thfla1105&theme=algolia&show_icons=true)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thfla1105&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 </div>
