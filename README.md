@@ -78,6 +78,8 @@ Here are some ideas to get you started:
 <div align=center><h3>🌱MY STATUS🌱</h3></div>
 <div align=center>
   
+  ![trophy](https://github-profile-trophy.vercel.app/?username=thfla1105)
+  <br>
   [![thfla1105's GitHub stats](https://github-readme-stats.vercel.app/api?username=thfla1105&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
   [![thfla1105's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thfla1105&show_icons=true&hide_border=true&title_color=474A50&icon_color=5A80CD&layout=compact)](https://github.com/thfla1105)
 </div>
