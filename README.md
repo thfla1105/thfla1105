@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Hello%20World!%20&desc=It's%20SoRim&fontSize=50&animation=blink" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=SORIMLEE&desc=fearless&fontSize=50&animation=blink" />
 </div>
 <div align=center><h1>📚STACKS📚</h1></div>
 
