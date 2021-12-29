@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=SORIMLEE&desc=fearless&fontSize=50&animation=blink" />
 </div>
-<div align=left><h3>📚STACKS📚</h3></div>
+<div align=center><h3>📚STACKS📚</h3></div>
 
-<div align="left"> 
+<div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -75,7 +75,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   <br>
 </div>
-<div align=right><h3>🌱MY STATUS🌱</h3></div>
-<div align="right">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thfla1105&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center><h3>🌱MY STATUS🌱</h3></div>
+<div align=center>
+  
+  [![thfla1105's GitHub stats](https://github-readme-stats.vercel.app/api?username=thfla1105&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+  [![thfla1105's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thfla1105&show_icons=true&hide_border=true&title_color=474A50&icon_color=5A80CD&layout=compact)](https://github.com/thfla1105)
 </div>
