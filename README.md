@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=SORIMLEE&desc=fearless&fontSize=50&animation=blink" />
-</div>
-<div align=center><h3>📚STACKS📚</h3></div>
+  <div align="center">
+<br><br><br>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80SORIMLEE%2C+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
+<br><br><br>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -60,11 +62,22 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   <img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   <br>
-</div>
-<div align=center><h3>🌱MY STATUS🌱</h3></div>
-<div align=center>    
-    
-  [![thfla1105's GitHub stats](https://github-readme-stats.vercel.app/api?username=thfla1105&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-  [![thfla1105's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thfla1105&show_icons=true&hide_border=true&title_color=474A50&icon_color=5A80CD&layout=compact)](https://github.com/thfla1105)
-  </div>
+</div> 
   
+<br><br>  
+<!-- devpla's profile -->
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=thfla1105&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
+</a>
+<a href="https://github.com/devpla/github-stats-transparent">
+ <img src="https://raw.githubusercontent.com/devpla/github-stats-transparent/output/generated/languages.svg" width=49.2% />
+</a>
+
+  <!--
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=thfla1105&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+</a>
+-->
+
+<br><br><br>
