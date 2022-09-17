@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="left">
-<br><br><br>
+<br>
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&width=1200&section=header&text=SORIM%20&fontSize=90" />
+ </div>
+<br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80SORIM%2C+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
-  
-<br><br><br>
-
 ## 🔭 I'm interested in
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -86,5 +86,5 @@ PC형 플랫포머 리듬게임
  
 ### KING 9기
 2019.04 - 현재
-이화여자대학교 소프트웨어학부 게임 
+이화여자대학교 소프트웨어학부 게임 개발 동아리
 </div> 
